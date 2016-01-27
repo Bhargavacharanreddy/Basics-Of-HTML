@@ -1,0 +1,14 @@
+<!doctype html>
+<table border=3 bordercolor="red" cellspacing=0 cellpadding=0 background=""
+       height=50% width=50%  align="center" >
+<tr>
+     <td colspan=6><img src="apple.png" height=100 width=100/>
+</tr>
+<tr>
+    <td><img src="google.png" height=100 width=100/>
+	<td><img src="apple.png" height=100 width=100/>
+	<td><img src="spacex.png" height=100 width=100/>
+	<td><img src="amazon.png" height=100 width=100/>
+	<td><img src="apple.png" height=100 width=100/>
+</tr>
+</table>
