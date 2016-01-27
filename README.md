@@ -1,2 +1,2 @@
-# HTML-basics
-contains all the basic tags of the HTML
+# Basics Of HTML
+ Contains Basic things created using HTML tag and elements.
